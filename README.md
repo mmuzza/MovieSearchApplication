@@ -5,7 +5,7 @@ A robust, scalable RESTful API and GraphQL backend for managing a movie catalog,
 ## 📋 Table of Contents
 
 - [Overview](#Overview)
-- [Features](#features)
+- [Features](#Features)
 - [Tech Stack](#tech-stack)
 - [Architecture](#architecture)
 - [Prerequisites](#prerequisites)
